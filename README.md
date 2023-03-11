@@ -1,5 +1,6 @@
 # Extracting-Business-Card-Data-with-OCR
 Technologies: OCR,streamlit GUI, SQL,Data Extraction
+
 Streamlit: https://docs.streamlit.io/library/api-reference
 
 Problem Statement:
